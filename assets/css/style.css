@@ -1,0 +1,78 @@
+#body{
+    background-color: black;
+}
+
+
+#landing{
+     /* background-image: url("../images/landingPic.jpg"); */
+     background-color: black;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+    color: rgb(208,180,117);
+    display: inline-block;
+}
+
+#logo{
+    width: 100%;
+    justify-content: center;
+}
+#logoPic{
+    height: 150px;
+    width: 150px;
+    margin-top: -65px;
+    
+}
+
+#bar{
+    margin-top: -95px;
+    margin-bottom: 20px;
+    background-color: black;
+    color: rgb(208,180,117)
+}
+
+#shortcut{
+    display: inline-block;
+}
+
+.nav{
+    color: rgb(208,180,117);
+}
+
+.a{
+    text-decoration: none;
+    color: rgb(208,180,117);
+}
+
+#slogan{
+    background-color: white;
+    font-family: "brush script MT";
+    text-align: center;
+    font-size: 73px;
+
+}
+
+#sloganLogo{
+    height: 300px;
+    width: 300px;
+    margin-top: 10px;
+
+}
+
+h1{
+    font-size: 73px;
+}
+ 
+#blue{
+    height: 650px;
+    width: 513.5px;
+}
+
+#hr{
+    border-top: 10px white;
+}
+
+.row{
+    width: 100%;
+}
